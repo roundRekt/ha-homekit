@@ -4,7 +4,10 @@
   "version": "2024.10.1",
   "after_dependencies": ["camera", "zeroconf"],
   "categories": ["other_ecosystems"],
-  "codeowners": ["@bdraco"],
+  "codeowners": [
+    "@bdraco",
+    "@roundRekt"
+  ],
   "config_flow": true,
   "dependencies": ["ffmpeg", "http", "network"],
   "documentation": "https://www.home-assistant.io/integrations/homekit",
