@@ -1,4 +1,4 @@
-# HomeKit Bridge Extended (Home Assistant 自定义组件)
+# HomeKit Bridge
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/default)
 
@@ -28,7 +28,7 @@
 1. 打开 Home Assistant 的 **HACS**。
 2. 点击右上角菜单，选择 **自定义存储库 (Custom repositories)**。
 3. 输入本仓库地址，类别选择 **集成 (Integration)** 并添加。
-4. 在集成列表中搜索并下载 **HomeKit Bridge Extended**。
+4. 在集成列表中搜索并下载 **HomeKit Bridge**。
 5. 重启 Home Assistant。
 
 ### 方式二：手动安装
